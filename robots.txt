@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://nowoxivi.github.io/sitemap/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/eon/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/HUp/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/stF/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/Lgs/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/UTY/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/Vgj/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/ZjW/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/lyY/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/dYg/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/reg/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/GYL/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/lws/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/Imw/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/xcP/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/scm/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/tOl/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/MGH/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/yNW/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/WKP/sitemap_index.nowoxivi
+Sitemap: https://nowoxivi.github.io/Iyc/sitemap_index.nowoxivi
